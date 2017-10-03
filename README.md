@@ -29,6 +29,9 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 ## How can I help?
 - Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com)
 - Come to our meetings. Email us for details.
+- If you are associated with an organization that already has good, working solutions for some of the
+problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof)
+in a suitable open license, we'd love to hear from you!
 
 ## References
 
