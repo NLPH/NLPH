@@ -29,3 +29,10 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 ## How can I help?
 - Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com)
 - Come to our meetings. Email us for details.
+
+## References
+
+- A great list of NLP tools for Hebrew can be found here:
+https://github.com/iddoberger/awesome-hebrew-nlp
+- We are trying to create a more general list of resources for NLP in Hebrew here:
+https://github.com/NLPH/NLPH/blob/master/Hebrew_NLP_Resources.rst
