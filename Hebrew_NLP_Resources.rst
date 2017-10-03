@@ -15,13 +15,27 @@ https://github.com/iddoberger/awesome-hebrew-nlp
 Corpora
 =======
 
+* `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_  - The MILA center has 20 different corpora available under the GPL license, free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
+
 
 Lexicons, Dictionaries, Etc.
-=====
+============================
 
 * The BGU morphological lexicon
 * Uniform - an inflection dictionary
 * The morphological lexicon of the Israeli National Institute for Testing and Evaluation
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
+ * `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Available under the GPL license, free for non-commercial use.
+
+
+Papers
+======
+
+Corpora, Lexicon and Dictionary Generation
+------------------------------------------
+
+* Khalil Sima'an, Alon Itai, Yoad Winter, Alon Altman and Noa Nativ. `"Building a Tree-Bank of Modern Hebrew Text." <http://www.cs.technion.ac.il/~winter/Corpus-Project/paper.pdf>`_ Traitment Automatique des Langues, 42, 347-380. 2001.
+
 
 Code
 ====
