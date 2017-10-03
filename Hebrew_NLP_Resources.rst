@@ -34,6 +34,8 @@ Lexicons, Dictionaries, Etc.
 * `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ - 
 Hebrew WordNet uses the MultiWordnet methodology and is aligned with the one developed at IRST (and, therefore, aligned with English, Italian and Spanish). Available under the GPL license, free for non-commercial use.
 
+* `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ - Available under the GPL license, free for non-commercial use.
+
 
 Papers
 ======
@@ -50,8 +52,25 @@ Corpora, Lexicon and Dictionary Generation
 * Noam Ordan and Shuly Wintner. `"Representing Natural Gender in Multilingual Lexical Databases." <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.8099&rep=rep1&type=pdf>`_ International Journal of Lexicography 18(3):357-370, September 2005.
 
 
+Morphological Analysis & Disambiguation
+---------------------------------------
+
+Shlomo Yona and Shuly Wintner. `"A Finite-State Morphological Grammar of Hebrew." <http://cs.haifa.ac.il/~shuly/publications/morphgram.pdf>`_ Natural Language Engineering 14(2):173-190, April 2008. Language Resources and Evaluation 42(1):75-98, March 2008.
+
+
 Code
 ====
 
-See here:
-https://github.com/iddoberger/awesome-hebrew-nlp
+Also see here:  https://github.com/iddoberger/awesome-hebrew-nlp
+
+
+Tokenization
+------------
+
+* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ - Available under the GPL license, free for non-commercial use.
+
+
+Morphological Analysis & Disambiguation
+---------------------------------------
+
+
