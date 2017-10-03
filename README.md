@@ -6,8 +6,8 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 
 ## Goals
-1. Creating, maintaing, adapting and spreading resources that enable high-quality, production-ready, open-licensed Natural Language Processing in Hebrew. 
-2. Enable, foster and catalize cooperation between stakeholders in academia, private and the public sectors, in order to  promote better Open Source Hebrew NLP solutions, and share existing knowledge and tools.
+1. Creating, maintaining, adapting and spreading resources that enable high-quality, production-ready, open-licensed Natural Language Processing in Hebrew. 
+2. Enable, foster and catalyze cooperation between stakeholders in academia, private and the public sectors, in order to  promote better Open Source Hebrew NLP solutions, and share existing knowledge and tools.
 
 
 ## Who's taking part?
@@ -23,7 +23,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
   
-- Incouraging the open-licesning of high quality, open-licensed, tagged and labelleld datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
+- Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
 
 
 ## How can I help?
