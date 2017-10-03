@@ -18,12 +18,12 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 ## What's our current focus?
 - Forming a group of volunteers to start work on the core components, during developer meetings of the Public Knowledge Workshop and in other frameworks - including events like hackathons and as part of educational and research projects.
-- Creating basic open source tools in Python that work with existing popular frameworks -  an NLTK plugin for Hebrew is one option - focusing on:
+- Adapting and integrating existing Hebrew NLP Python tools with existing popular frameworks -  an NLTK plugin for Hebrew is one option - and creating those tools when they are missing, focusing on:
   - Tokenization. Specifically stemming and lemmatization.
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
   
-- Authoring high quality, open-licensed, tagged and labelleld datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.)..
+- Incouraging the open-licesning of high quality, open-licensed, tagged and labelleld datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
 
 
 ## How can I help?
