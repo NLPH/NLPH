@@ -11,8 +11,8 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 
 ## Who's taking part?
-- Public Knowledge Workshop
-- DataHack
+- [Public Knowledge Workshop](http://www.hasadna.org.il/en/)
+- [DataHack](datahack-il.com)
 
 
 ## What's our current focus?
