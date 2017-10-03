@@ -23,4 +23,7 @@ Tools
 * Uniform - an inflection 
 
 Code
+====
 
+See here:
+https://github.com/iddoberger/awesome-hebrew-nlp
