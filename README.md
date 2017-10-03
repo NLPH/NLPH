@@ -1,4 +1,4 @@
-# The Open Natural Language Processing in Hebrew Project (NLPH)
+# The Open Natural Language Processing in Hebrew Project
 
 
 ## Vision
