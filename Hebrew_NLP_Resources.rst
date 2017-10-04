@@ -89,4 +89,4 @@ Morphological Analysis & Disambiguation
 Other
 -----
 
-( `HebMorph <https://github.com/synhershko/HebMorph>`_ - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene. Available under AGPL v3.
+* `HebMorph <https://github.com/synhershko/HebMorph>`_ - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene. Available under AGPL v3.
