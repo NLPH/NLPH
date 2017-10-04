@@ -17,7 +17,7 @@ Corpora
 
 * `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_  - The MILA center has 20 different corpora available under the GPL license, free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
 
-* _`Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ - Wikipedia the free encyclopedia, publish its content in CC-BY-SA 3.0 as XML dumps monthly. 
+* `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ - Wikipedia the free encyclopedia, publish its content in CC-BY-SA 3.0 as XML dumps monthly. 
 
 * `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived  from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
@@ -84,4 +84,4 @@ Morphological Analysis & Disambiguation
 * `The MILA Morphological Disambiguation Tool <http://www.mila.cs.technion.ac.il/tools_disambiguation.html>`_ - Takes as input morphologically-analyzed text and uses a Hidden Markov Model (HMM) to assign scores for each analysis, considering contextual information from the rest of the sentence. For a given token, all analyses deemed impossible are given scores of 0; all n analyses deemed possible are given positive scores. Available under the GPL license, free for non-commercial use.
 
 * `Hspell <http://hspell.ivrix.org.il/>`_ - Free Hebrew linguistic project including spell checker and  morphological analyzer. Available under AGPL v3. 
- * `HspellPy <ttps://github.com/eranroz/HspellPy>`_ - Python wrapper for hspell. Available under AGPL v3.
+  * `HspellPy <https://github.com/eranroz/HspellPy/>`_  - Python wrapper for hspell. Available under AGPL v3.
