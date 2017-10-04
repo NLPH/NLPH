@@ -85,3 +85,8 @@ Morphological Analysis & Disambiguation
 
 * `Hspell <http://hspell.ivrix.org.il/>`_ - Free Hebrew linguistic project including spell checker and  morphological analyzer. Available under AGPL v3. 
   * `HspellPy <https://github.com/eranroz/HspellPy/>`_  - Python wrapper for hspell. Available under AGPL v3.
+  
+Other
+-----
+
+( `HebMorph <https://github.com/synhershko/HebMorph>`_ - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene. Available under AGPL v3.
