@@ -73,7 +73,9 @@ Also see here:  https://github.com/iddoberger/awesome-hebrew-nlp
 Tokenization
 ------------
 
-* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ - Available under the GPL license, free for non-commercial use.
+* Jonathan Laserson's sentence separator [Python] - Not a tokenizer per-se, but an important part in the tokenization of documents. Jonathan is kindly checking the possibility of open sourcing this tool.
+
+* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [Lucene]- Available under the GPL license, free for non-commercial use.
 
 
 Morphological Analysis & Disambiguation
