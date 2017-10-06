@@ -121,4 +121,4 @@ Other
 .. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
 .. _GPLv3: http://www.gnu.org/copyleft/gpl.html
 .. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
-.. _ Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+.. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
