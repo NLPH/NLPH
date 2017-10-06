@@ -28,9 +28,9 @@ Linguistic Resources
 Lexicons
 --------
 
-* The BGU morphological lexicon
+* The BGU morphological lexicon {?} - Is it released?
 
-* The morphological lexicon of the Israeli National Institute for Testing and Evaluation
+* The morphological lexicon of the Israeli National Institute for Testing and Evaluation - Unreleased.
 
 * `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ {`GPLv3`_} - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Free for non-commercial use.
 
@@ -42,7 +42,7 @@ Lexicons
 Dictionaries
 ------------
 
-* Uniform - an inflection dictionary
+* Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
 
 Treebanks
