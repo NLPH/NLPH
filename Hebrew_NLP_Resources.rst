@@ -21,6 +21,8 @@ Corpora
 
 * `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived  from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ - The Hebrew Univerval Dependencies Treebank
+
 Lexicons, Dictionaries, Etc.
 ============================
 
@@ -63,6 +65,7 @@ Morphological Analysis & Disambiguation
 
 * Roy Bar-Haim, Khalil Sima'an and Yoad Winter. `Part-of-Speech Tagging of Modern Hebrew Text. <http://www.cs.technion.ac.il/~barhaim/MorphTagger/HebrewPOSTaggingNLE.pdf>`_ Natural Language Engineering 14 (2):223-251. Copyright Cambridge University Press. 2008.
 
+* Amir More and Reut Tsarfaty. `Data-Driven Morphological Analysis and Disambiguation for Morphologically Rich Languages and Universal Dependencies <http://aclweb.org/anthology/C16-1033>`_. Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. December 2016.
 
 Code
 ====
@@ -87,7 +90,9 @@ Morphological Analysis & Disambiguation
 
 * `Hspell <http://hspell.ivrix.org.il/>`_ - Free Hebrew linguistic project including spell checker and  morphological analyzer. Available under AGPL v3. 
   * `HspellPy <https://github.com/eranroz/HspellPy/>`_  - Python wrapper for hspell. Available under AGPL v3.
-  
+
+* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ - Morphological Analysis, Disambiguation and Dependency Parser. Morphological Analyzer relies on the BGU Lexicon. Code is Apache Licensed, the BGU lexicon has an unclear license.
+
 Other
 -----
 
