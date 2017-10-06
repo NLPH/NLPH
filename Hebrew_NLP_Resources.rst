@@ -15,13 +15,13 @@ https://github.com/iddoberger/awesome-hebrew-nlp
 Corpora
 =======
 
-* `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_  - The MILA center has 20 different corpora available under the GPL license, free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
+* `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
 
-* `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ - Wikipedia the free encyclopedia, publish its content as XML dumps monthly. {`CC-BY-SA 3.0`_}
+* `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ {`CC-BY-SA 3.0`_} - Wikipedia the free encyclopedia, publish its content as XML dumps monthly.
 
-* `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived  from  `query <https://quarry.wmflabs.org/query/21957>`_. 
+* `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived  from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
-* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ - The Hebrew Univerval Dependencies Treebank
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_}- The Hebrew Univerval Dependencies Treebank
 
 Linguistic Resources
 ====================
@@ -33,11 +33,11 @@ Lexicons
 
 * The morphological lexicon of the Israeli National Institute for Testing and Evaluation
 
-* `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Available under the GPL license, free for non-commercial use.
+* `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ {`GPLv3`_} - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Free for non-commercial use.
 
-* `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ -  Hebrew WordNet uses the MultiWordnet methodology and is aligned with the one developed at IRST (and, therefore, aligned with English, Italian and Spanish). Available under the GPL license, free for non-commercial use.
+* `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ {`GPLv3`_} -  Hebrew WordNet uses the MultiWordnet methodology and is aligned with the one developed at IRST (and, therefore, aligned with English, Italian and Spanish). Free for non-commercial use.
 
-* `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ - Available under the GPL license, free for non-commercial use.
+* `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ {`GPLv3`_} - Free for non-commercial use.
 
 
 Dictionaries
@@ -49,13 +49,13 @@ Dictionaries
 Treebanks
 ---------
 
-* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ {`GPLv3`_} - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
 
 
 Embeddings
 ----------
 
-* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Come in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order. Distributed under the `Creative Commons Attribution-Share-Alike License 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_.
+* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Come in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
 
 
@@ -94,29 +94,31 @@ Also see here:  https://github.com/iddoberger/awesome-hebrew-nlp
 Tokenization
 ------------
 
-* Jonathan Laserson's sentence separator [Python] - Not a tokenizer per-se, but an important part in the tokenization of documents. Jonathan is kindly checking the possibility of open sourcing this tool.
+* Jonathan Laserson's sentence separator [Python] {?}- Not a tokenizer per-se, but an important part in the tokenization of documents. Jonathan is kindly checking the possibility of open sourcing this tool.
 
-* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ {`GPLv3`_} - Free for non-commercial use.
+* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
 
 
 Morphological Analysis & Disambiguation
 ---------------------------------------
 
-* `The MILA Morphological Analysis Tool <http://www.mila.cs.technion.ac.il/tools_analysis.html>`_ - Takes as input undotted Hebrew text (formatted either as plain text or as tokenized XML following MILA's standards). The Analyzer then returns, for each token, all the possible morphological analyses of the token, reflecting part of speech, transliteration, gender, number, definiteness, and possessive suffix. Free for non-commercial use. {`GPLv3`_}
+* `The MILA Morphological Analysis Tool <http://www.mila.cs.technion.ac.il/tools_analysis.html>`_ [?] {`GPLv3`_} - Takes as input undotted Hebrew text (formatted either as plain text or as tokenized XML following MILA's standards). The Analyzer then returns, for each token, all the possible morphological analyses of the token, reflecting part of speech, transliteration, gender, number, definiteness, and possessive suffix. Free for non-commercial use. 
 
-* `The MILA Morphological Disambiguation Tool <http://www.mila.cs.technion.ac.il/tools_disambiguation.html>`_ - Takes as input morphologically-analyzed text and uses a Hidden Markov Model (HMM) to assign scores for each analysis, considering contextual information from the rest of the sentence. For a given token, all analyses deemed impossible are given scores of 0; all n analyses deemed possible are given positive scores. Free for non-commercial use. {`GPLv3`_}
+* `The MILA Morphological Disambiguation Tool <http://www.mila.cs.technion.ac.il/tools_disambiguation.html>`_ [?] {`GPLv3`_} - Takes as input morphologically-analyzed text and uses a Hidden Markov Model (HMM) to assign scores for each analysis, considering contextual information from the rest of the sentence. For a given token, all analyses deemed impossible are given scores of 0; all n analyses deemed possible are given positive scores. Free for non-commercial use.
 
-* `Hspell <http://hspell.ivrix.org.il/>`_ - Free Hebrew linguistic project including spell checker and  morphological analyzer. {`AGPL-3.0`_}
-  * `HspellPy <https://github.com/eranroz/HspellPy/>`_  - Python wrapper for hspell. {`AGPL-3.0`_}
+* `Hspell <http://hspell.ivrix.org.il/>`_ [?] {`AGPL-3.0`_} - Free Hebrew linguistic project including spell checker and  morphological analyzer. 
+  * `HspellPy <https://github.com/eranroz/HspellPy/>`_ [Python] {`AGPL-3.0`_} - Python wrapper for hspell.
 
-* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ - Morphological Analysis, Disambiguation and Dependency Parser. Morphological Analyzer relies on the BGU Lexicon. Code is Apache Licensed. {?}
+* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, Disambiguation and Dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
 Other
 -----
 
-* `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene. {`AGPL-3.0`_}
+* `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
 
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 .. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
 .. _GPLv3: http://www.gnu.org/copyleft/gpl.html
+.. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+.. _ Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
