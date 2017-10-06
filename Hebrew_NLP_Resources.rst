@@ -23,22 +23,40 @@ Corpora
 
 * `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ - The Hebrew Univerval Dependencies Treebank
 
-Lexicons, Dictionaries, Etc.
-============================
+Linguistic Resources
+====================
+
+Lexicons
+--------
 
 * The BGU morphological lexicon
 
-* Uniform - an inflection dictionary
-
 * The morphological lexicon of the Israeli National Institute for Testing and Evaluation
-
-* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
 
 * `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Available under the GPL license, free for non-commercial use.
 
 * `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ -  Hebrew WordNet uses the MultiWordnet methodology and is aligned with the one developed at IRST (and, therefore, aligned with English, Italian and Spanish). Available under the GPL license, free for non-commercial use.
 
 * `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ - Available under the GPL license, free for non-commercial use.
+
+
+Dictionaries
+------------
+
+* Uniform - an inflection dictionary
+
+
+Treebanks
+---------
+
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
+
+
+Embeddings
+----------
+
+* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Come in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order. Distributed under the `Creative Commons Attribution-Share-Alike License 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_.
+
 
 
 Papers
