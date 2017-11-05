@@ -11,9 +11,11 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 
 ## Who's taking part?
-- [Public Knowledge Workshop](http://www.hasadna.org.il/en/)
+- [The Public Knowledge Workshop](http://www.hasadna.org.il/en/)
 - [DataHack](datahack-il.com)
-- Your company/organization/faculty, we hope!
+- [Yoav Goldberg's lab at Bar Ilan University](http://u.cs.biu.ac.il/~yogo/)
+- [The Natural Language Processing Lab at the Open University of Israel, headed by Dr. Reut Tsarfaty](http://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx)
+- Your company/organization/lab/faculty, we hope!
 
 
 ## What's our current focus?
