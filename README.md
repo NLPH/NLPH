@@ -20,7 +20,10 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 ## What's our current focus?
 - Forming a group of volunteers to start work on the core components, during developer meetings of the Public Knowledge Workshop and in other frameworks - including events like hackathons and as part of educational and research projects.
-- Adapting and integrating existing Hebrew NLP Python tools with existing popular frameworks -  an NLTK plugin for Hebrew is one option - and creating those tools when they are missing, focusing on:
+- Adapting and integrating existing Hebrew NLP Python tools with existing popular frameworks:
+  - [NLTK](http://www.nltk.org) plugin
+  - [spaCy](https://spacy.io/) models
+- Creating those tools when they are missing, focusing on:
   - Tokenization. Specifically stemming and lemmatization.
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
