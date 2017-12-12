@@ -37,6 +37,8 @@ Corpora Sources
 
 * `DICTA <http://dicta.org.il/>` {?} - Analytical tools for Jewish texts
 
+* `Sefaria <https://www.sefaria.org.il/>`_ {Various> - A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
+
 
 
 Linguistic Resources
