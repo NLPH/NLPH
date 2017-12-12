@@ -140,9 +140,10 @@ Morphological and Syntactic Analysis
 * `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Herbew, one dependency-based and the other constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
 
 
-
 Tagging Tools
 -------------
+
+* `Recogito <http://recogito.pelagios.org/>`_ [Scala, JavaScript, HTML] {`Apache License 2.0`_} - A tool for linked data annotation.
 
 * `rasa-nlu-trainer <https://github.com/RasaHQ/rasa-nlu-trainer>`_ [JavaScript] {`MIT`_} - A tool to edit training examples for `rasa NLU <https://github.com/rasahq/rasa_nlu>`_. Handles right-to-left and part-of-word marking.
 
