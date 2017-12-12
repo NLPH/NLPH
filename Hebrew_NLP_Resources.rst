@@ -71,12 +71,6 @@ Embeddings
 * `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
 
-Tagging Tools
--------------
-
-*
-
-
 
 Papers
 ======
@@ -146,6 +140,13 @@ Morphological and Syntactic Analysis
 * `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Herbew, one dependency-based and the other constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
 
 
+
+Tagging Tools
+-------------
+
+* `rasa-nlu-trainer <https://github.com/RasaHQ/rasa-nlu-trainer>`_ [JavaScript] {`MIT`_} - A tool to edit training examples for `rasa NLU <https://github.com/rasahq/rasa_nlu>`_. Handles right-to-left and part-of-word marking.
+
+
 Other
 -----
 
@@ -157,3 +158,4 @@ Other
 .. _GPLv3: http://www.gnu.org/copyleft/gpl.html
 .. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
 .. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+.. _MIT: https://en.wikipedia.org/wiki/MIT_License
