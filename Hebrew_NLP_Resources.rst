@@ -71,6 +71,12 @@ Embeddings
 * `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
 
+Tagging Tools
+-------------
+
+*
+
+
 
 Papers
 ======
@@ -122,8 +128,8 @@ Tokenization
 * `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
 
 
-Morphological Analysis & Disambiguation
----------------------------------------
+Morphological and Syntactic Analysis
+------------------------------------
 
 * `The MILA Morphological Analysis Tool <http://www.mila.cs.technion.ac.il/tools_analysis.html>`_ [?] {`GPLv3`_} - Takes as input undotted Hebrew text (formatted either as plain text or as tokenized XML following MILA's standards). The Analyzer then returns, for each token, all the possible morphological analyses of the token, reflecting part of speech, transliteration, gender, number, definiteness, and possessive suffix. Free for non-commercial use. 
 
@@ -135,8 +141,9 @@ Morphological Analysis & Disambiguation
 
 * `BGU Tagger: Morphological Tagging of Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlp12/hebrew/TagHebrew.html>`_ [Java] {?} - Morphological Analysis, Disambiguation.
 
-* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, Disambiguation and Dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
+* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
+* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Herbew, one dependency-based and the other constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
 
 
 Other
