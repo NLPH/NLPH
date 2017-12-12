@@ -105,7 +105,7 @@ Morphological Analysis & Disambiguation
 Word Embeddings
 ---------------
 
-Oded Avraham and Yoav Goldberg. `The Interplay of Semantics and Morphology in Word Embeddings. <https://arxiv.org/abs/1704.01938>`_. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017).
+* Oded Avraham and Yoav Goldberg. `The Interplay of Semantics and Morphology in Word Embeddings <https://arxiv.org/abs/1704.01938>`_. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017).
 
 
 Code
