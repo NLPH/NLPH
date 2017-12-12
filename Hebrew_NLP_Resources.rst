@@ -27,6 +27,8 @@ Structured Corpora
 
 * `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Univerval Dependencies Treebank
 
+* `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
+
 
 Corpora Sources
 ---------------
