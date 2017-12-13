@@ -35,7 +35,7 @@ Corpora Sources
 
 * `JPress <http://www.jpress.org.il>`_ {`Custom Terms of Use <http://web.nli.org.il/sites/JPress/English/about/Pages/tems-of-use.aspx>`_} - `The National Library <http://web.nli.org.il>`_ offers a collection of Jewish newspapers published in various countries, languages, and time periods, including digital versions and full-text search. The texts are published under a `custom Terms of Use document <http://web.nli.org.il/sites/JPress/English/about/Pages/tems-of-use.aspx>`_ that prohibits commercial use, and additionally requires checking the copyright status and receiving permission from the copyright-holder of the work for any use requiring such permission according to the Copyright Law.
 
-* `DICTA <http://dicta.org.il/>` {?} - Analytical tools for Jewish texts
+* `DICTA <http://dicta.org.il/>`_ {?} - Analytical tools for Jewish texts. They also have a `GitHub organization <https://github.com/Dicta-Israel-Center-for-Text-Analysis>`_.
 
 * `Sefaria <https://www.sefaria.org.il/>`_ {Various> - A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
 
