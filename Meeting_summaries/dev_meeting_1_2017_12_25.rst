@@ -56,6 +56,6 @@ Common Voice: Hebrew
 ====================
 
 * Eli Leszczynski will start working on a Hebrew version of the Mozilla Common Voice web app.
-* Shay will open a GitHub repository and a dedicated AWS account under NLPH credentials and provide Eli with access.
+* Shay will open a GitHub repository and a dedicated AWS account under NLPH credentials and provide Eli with access. [the repo `is here <https://github.com/NLPH/voice-web>`_]
 * Inbar & Shay will approach Amazon regarding sponsorship of AWS costs (server, but more so the storage).
 * Shay will update on his communication with the Mozilla people, and hopefully can connect them with Eli for any development-related help, and also get their advice on methodology. 
