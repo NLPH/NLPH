@@ -21,7 +21,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 ## Active projects
 
-- Common Voice: Hebrew - A Hebrew version for the Mozilla: Common Voice apps. Our fork of the Common Voice repository can be found here: https://github.com/NLPH/voice-web
+- **Common Voice: Hebrew** - A Hebrew version for the Mozilla: Common Voice apps. Our fork of the Common Voice repository can be found here: https://github.com/NLPH/voice-web
 
 
 ## What's our current focus?
