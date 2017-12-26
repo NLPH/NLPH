@@ -1,9 +1,10 @@
 NLPH development meeting #1 - 21.12.17
 ######################################
 
-* Shay explained the agenda and main targets of the discussion, mainly:L
+* Shay explained the agenda and main targets of the discussion, mainly:
 
   * Examine existing tagging tools and understanding how (and if) they should be adapted, and which tagging projects can already commence with existing tools.
+  * Bootstrap the Common Voice: Hebrew project.
 
 * Reut and Yoav explained the needed focus on creating larger tagged corpora to enable better models.
 
