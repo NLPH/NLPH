@@ -33,7 +33,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 
 ## How can I help?
-- Join our [Newsletter](http://eepurl.com/c6imhH), for updates and for opportunities to contribure!
+- Join our [mailing list](https://mailchi.mp/77178ddb4727/the-nlph-mailing-list), for updates and for opportunities to contribure!
 - Need something more specific? Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com).
 - Join the discussion in [our Facebook group](https://www.facebook.com/groups/157877988136954/).
 - If you are associated with an organization that already has good, working solutions for some of the problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof) in a suitable open license, we'd love to hear from you!
