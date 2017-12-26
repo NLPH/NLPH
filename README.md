@@ -20,7 +20,8 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 
 
 ## What's our current focus?
-- Forming a group of volunteers to start work on the core components, during developer meetings of the Public Knowledge Workshop and in other frameworks - including events like hackathons and as part of educational and research projects.
+- Forming a group of volunteers to start work on the core projects during the developer meetings of the Public Knowledge Workshop and in other frameworks - including events like hackathons and as part of educational and research projects.
+- Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
 - Adapting and integrating existing Hebrew NLP Python tools with existing popular frameworks:
   - [NLTK](http://www.nltk.org) plugin
   - [spaCy](https://spacy.io/) models
@@ -28,10 +29,8 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
   - Tokenization. Specifically stemming and lemmatization.
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
-  
-- Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
-
-
+ 
+ 
 ## How can I help?
 - Join our [mailing list](https://mailchi.mp/77178ddb4727/the-nlph-mailing-list), for updates and for opportunities to contribure!
 - Need something more specific? Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com).
