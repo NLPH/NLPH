@@ -19,6 +19,11 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 - Your company/organization/lab/faculty, we hope!
 
 
+## Active projects
+
+- Common Voice: Hebrew - A Hebrew version for the Mozilla: Common Voice apps. Our fork of the Common Voice repository can be found here: https://github.com/NLPH/voice-web
+
+
 ## What's our current focus?
 - Forming a group of volunteers to start work on the core projects during the developer meetings of the Public Knowledge Workshop and in other frameworks - including events like hackathons and as part of educational and research projects.
 - Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
@@ -29,7 +34,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
   - Tokenization. Specifically stemming and lemmatization.
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
- 
+
  
 ## How can I help?
 - Help expand [our list of resources for NLP in Hebrew](https://github.com/NLPH/NLPH/blob/master/Hebrew_NLP_Resources.rst)!
@@ -37,6 +42,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 - Need something more specific? Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com).
 - Join the discussion in [our Facebook group](https://www.facebook.com/groups/157877988136954/).
 - If you are associated with an organization that already has good, working solutions for some of the problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof) in a suitable open license, we'd love to hear from you!
+
 
 ## Documents
 
