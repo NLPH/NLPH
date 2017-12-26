@@ -32,6 +32,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
  
  
 ## How can I help?
+- Help expand [our list of resources for NLP in Hebrew](https://github.com/NLPH/NLPH/blob/master/Hebrew_NLP_Resources.rst)!
 - Join our [mailing list](https://mailchi.mp/77178ddb4727/the-nlph-mailing-list), for updates and for opportunities to contribure!
 - Need something more specific? Email us at [NLPH.Project@gmail.com](mailto:NLPH.Project@gmail.com).
 - Join the discussion in [our Facebook group](https://www.facebook.com/groups/157877988136954/).
