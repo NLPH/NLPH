@@ -35,7 +35,7 @@ Tagging tool-related action points
 
 * Experienced consumers - at least Reut, Sinai and Yoav - should take a look at the possible candidates and:
 
-  * Which tagging projects, if any, can already commence with the existing tools.
+  * Consider which tagging projects, if any, can already commence with the existing tools.
   * Write down what missing in each one.
   * Specifically, for Recogito, Sinai will contact Reiner (the project developer) and advise with him regarding the possibility of said extensions.
   * Come up with a definition for the ideal/dream tool required for our desired tagging projects.
