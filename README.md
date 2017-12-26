@@ -37,9 +37,13 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 - Join the discussion in [our Facebook group](https://www.facebook.com/groups/157877988136954/).
 - If you are associated with an organization that already has good, working solutions for some of the problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof) in a suitable open license, we'd love to hear from you!
 
-## References
+## Documents
 
-- A great list of NLP tools for Hebrew can be found here:
-https://github.com/iddoberger/awesome-hebrew-nlp
-- We are trying to create a more general list of resources for NLP in Hebrew here:
-https://github.com/NLPH/NLPH/blob/master/Hebrew_NLP_Resources.rst
+- We are maintaining a list of resources for NLP in Hebrew here:
+  https://github.com/NLPH/NLPH/blob/master/Hebrew_NLP_Resources.rst
+
+  - Another great list of NLP tools for Hebrew can be found [here](https://github.com/iddoberger/awesome-hebrew-nlp)
+  
+- Meeting summaries:
+  - [NLPH development meeting #1 - 21.12.17](https://github.com/NLPH/NLPH/blob/master/Meeting_summaries/dev_meeting_1_2017_12_25.rst)
+    
