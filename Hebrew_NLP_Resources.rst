@@ -155,8 +155,8 @@ Tagging Tools
 
 * `CATMA <http://catma.de/>`_ [HTML, Java] {unclear} - A web-based tool for research and collaboration over text data.
 
- * See the system itself here: http://portal.catma.de/catma/
- * And the code here: https://github.com/mpetris/catma
+  * See the system itself here: http://portal.catma.de/catma/
+  * And the code here: https://github.com/mpetris/catma
 
 * `rasa-nlu-trainer <https://github.com/RasaHQ/rasa-nlu-trainer>`_ [JavaScript] {`MIT`_} - A tool to edit training examples for `rasa NLU <https://github.com/rasahq/rasa_nlu>`_. Handles right-to-left and part-of-word marking.
 
