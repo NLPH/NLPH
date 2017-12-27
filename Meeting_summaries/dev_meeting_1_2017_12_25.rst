@@ -18,7 +18,7 @@ Tagging Tool
 Good candidates
 ---------------
 
-* `LightTag <nlph.lighttag.io>`_ [?] {not open source> - A tool for managing annotation projects. Written by Tal Perry, who has generously offered free licenses to the NLPH project. Tutorial `video here <https://www.youtube.com/watch?v=eTlrTC_n_yg>`_.
+* `LightTag <nlph.lighttag.io>`_ [?] {not open source> - A tool for managing annotation projects. Written by Tal Perry, who has generously offered free licenses to the NLPH project. `Tutorial video here <https://www.youtube.com/watch?v=eTlrTC_n_yg>`_.
 
 * `Recogito <http://recogito.pelagios.org/>`_ [Scala, JavaScript, HTML] {Apache License 2.0} - A tool for linked data annotation.
 
