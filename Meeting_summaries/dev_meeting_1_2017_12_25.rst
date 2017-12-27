@@ -20,14 +20,14 @@ Good candidates
 
 * `LightTag <nlph.lighttag.io>`_ [?] {not open source> - A tool for managing annotation projects. Written by Tal Perry, who has generously offered free licenses to the NLPH project.`Tutorial video here <https://www.youtube.com/watch?v=eTlrTC_n_yg>`_.
 
-* `Recogito <http://recogito.pelagios.org/>`_ [Scala, JavaScript, HTML] {`Apache License 2.0`_} - A tool for linked data annotation.
+* `Recogito <http://recogito.pelagios.org/>`_ [Scala, JavaScript, HTML] {Apache License 2.0} - A tool for linked data annotation.
 
 * `CATMA <http://catma.de/>`_ [HTML, Java] {unclear} - A web-based tool for research and collaboration over text data.
 
   * See the system itself here: http://portal.catma.de/catma/
   * And the code here: https://github.com/mpetris/catma
   
-* `Arethusa: Annotation Environment <https://www.perseids.org/tools/arethusa/app/#/>`_ [JavaScript] {`MIT`_} - A backend-independent client-side annotation framework. `Repository here <https://github.com/alpheios-project/arethusa>`_.
+* `Arethusa: Annotation Environment <https://www.perseids.org/tools/arethusa/app/#/>`_ [JavaScript] {MIT} - A backend-independent client-side annotation framework. `Repository here <https://github.com/alpheios-project/arethusa>`_.
 
 
 Tagging tool-related action points 
