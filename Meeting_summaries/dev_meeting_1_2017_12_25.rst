@@ -1,6 +1,28 @@
 NLPH development meeting #1 - 21.12.17
 ######################################
 
+.. contents::
+
+.. section-numbering::
+
+Attendee list
+=============
+
+* Shay Palachy
+* Inbar Naor
+* Nathantel Davidovits
+* Sinai Rusinek
+* Assaf Valdarsky
+* Erez Tsion
+* Reut Tsarfati
+* Yoav Goldberg
+* Noam Arbel
+* Eli Leszczynski 
+
+
+Meeting highlights
+==================
+
 * Shay explained the agenda and main targets of the discussion, mainly:
 
   * Examine existing tagging tools and understanding how (and if) they should be adapted, and which tagging projects can already commence with existing tools.
@@ -8,7 +30,11 @@ NLPH development meeting #1 - 21.12.17
 
 * Reut and Yoav explained the needed focus on creating larger tagged corpora to enable better models.
 
-Tagging Tool
+* The group discussed the issue of tagging tools for text corpora and of different available tools and corpora. Action points were agreed upon.
+
+* The group moved on to a discussion on a Hebrew fork/version/part for the Mozilla Common Voice project. Action points were agreed upon.
+
+Tagging tool
 ============
 
 * Should enable tagging of substrings of any length.
@@ -30,8 +56,8 @@ Good candidates
 * `Arethusa: Annotation Environment <https://www.perseids.org/tools/arethusa/app/#/>`_ [JavaScript] {MIT} - A backend-independent client-side annotation framework. `Repository here <https://github.com/alpheios-project/arethusa>`_.
 
 
-Tagging tool-related action points 
-----------------------------------
+Action points 
+-------------
 
 * Experienced consumers - at least Reut, Sinai and Yoav - should take a look at the possible candidates and:
 
