@@ -47,6 +47,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
 ## Documents
 
 - We are maintaining a list of resources for NLP in Hebrew here:
+
   https://github.com/NLPH/NLPH_Resources
 
   - Another great list of NLP tools for Hebrew can be found [here](https://github.com/iddoberger/awesome-hebrew-nlp)
