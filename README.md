@@ -1,6 +1,6 @@
 # The Open Natural Language Processing in Hebrew Initiative
 
-The Open Natural Language Processing in Hebrew (NLPH) initiative is a joint effort by members of [DataHack](http://www.datahack-il.com/) and [The Public Knowledge Workshop](http://www.hasadna.org.il/en/) to promote open tools and resources for Natural Language Processing in Hebrew.
+The Open Natural Language Processing in Hebrew (NLPH) initiative is a joint effort by members of [DataHack](http://www.datahack-il.com/) and [The Public Knowledge Workshop](http://www.hasadna.org.il/en/) to promote [open tools and resources for Natural Language Processing in Hebrew](https://github.com/NLPH/NLPH_Resources).
 
 ## Vision
 Our vision is to bring Natural Language Processing capabilities in Hebrew to a level on par with international industry standards, keeping up with state-of-the-art techniques by providing open source implementations to new algorithms and tools, and making these capabilities publicly available for both public and commercial use.
